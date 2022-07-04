@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    font-family: poppins;
+}
+.heroSection{
+    display: flex;
+}
+.heroSection .halfWidth{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 50px;
+}
+.heroImg img{
+    width: 100%;
+}
+.heroSection1 h1{
+    font-size: 50px;
+}
+.heroSection1 h2{
+    font-size: 50px;
+}
+.heroSection1 span{
+    color: aqua;
+}
+.halfWidth p{
+    padding-bottom: 15px;
+}
+.heroSection1 a{
+    background-color: aqua;
+    padding: 10px 30px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    border-radius: 5%;
+}
+.AboutAs{
+    display: flex;
+}
+.halfWidth1{
+    width: 50%;
+}
+.aboutImg img{
+    width: 100%;
+}
